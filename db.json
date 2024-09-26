@@ -1,0 +1,10 @@
+{
+  "todos": [
+    {
+      "id": "f4302dc2-5598-4a93-bf47-d24a5449af91",
+      "text": "learn react",
+      "is_done": false,
+      "created_at": "9/26/2024"
+    }
+  ]
+}
