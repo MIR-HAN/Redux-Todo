@@ -48,7 +48,7 @@ const AddForm = () => {
         type="text"
       />
 
-      <button className="btn btn-warning">Hayati  Miralay</button>
+      <button className="btn btn-warning">Hayati Senilgaz</button>
     </form>
   );
 };
