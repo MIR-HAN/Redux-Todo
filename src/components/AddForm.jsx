@@ -48,7 +48,7 @@ const AddForm = () => {
         type="text"
       />
 
-      <button className="btn btn-warning">kirkor</button>
+      <button className="btn btn-warning">Kirkor</button>
     </form>
   );
 };
