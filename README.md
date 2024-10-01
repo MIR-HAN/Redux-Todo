@@ -1,12 +1,17 @@
-# <h1> Redux-Crud</h1>
+# React Todo App with Redux
 
-It is designed to be fully responsive.
+A simple and intuitive Todo app built with React and Redux for state management. The app allows users to add, edit, delete, and manage their tasks effectively. It also incorporates third-party libraries like `axios`, `react-toastify`, and `bootstrap` for enhanced functionality and UI.
 
-<h2> Programming Languages Used</h2>
+## Features
 
-Website is coded with HTML CSS and REACT.JS
+- Add new todos.
+- Mark todos as completed.
+- Delete todos.
+- Edit existing todos.
+- Redux for state management.
+- Toast notifications for feedback.
+- Fake backend using `json-server`.
 
-<h2>Screen </h2>
+## Gif
 
-![](Web.gif)
-![](Mobile.gif)
+![](Gif.gif)
